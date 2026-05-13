@@ -1,4 +1,4 @@
-﻿# TMUS Tunnel Manager Ultra Super
+﻿# TMUS Tunnel Manager 
 
 Утилита для создания WireGuard-туннеля через VPS с пробросом портов.
 Python-переработка оригинального C# проекта McTunnelManager.
